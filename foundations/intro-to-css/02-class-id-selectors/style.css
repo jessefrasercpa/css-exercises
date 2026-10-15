@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+.odd {
+    font-family     : Verdana, "DejaVu Sans", sans-serif;
+    background-color: #ff91a4; /* salmon pink */
+}
+
+#second {
+    font-size: 36px;
+    color    : #0000ff; /* blue */
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#fourth {
+    font-weight     : bold;
+    background-color: #90ee90; /* light green */
+}
